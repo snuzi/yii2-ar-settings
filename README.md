@@ -1,2 +1,4 @@
 # yii2-ar-settings
-Yii2 Active record settings
+Yii 2 Active Record settings
+
+Documentation about how to use this is coming soon..
