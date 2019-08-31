@@ -1,0 +1,13 @@
+{
+    "name": "snuzi/yii2-ar-settingss",
+    "description": "Yii2 Active Record settings.",
+    "require": {
+        "yiisoft/yii2": ">=2.0.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "snuzi\\ARSettings\\": "src/"
+        }
+	},
+    "minimum-stability": "dev"
+}

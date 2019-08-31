@@ -1,6 +1,6 @@
 <?php
 
-namespace sabri\ARSettings;
+namespace snuzi\ARSettings;
 
 use yii\db\ActiveRecord;
 use yii\helpers\ArrayHelper;

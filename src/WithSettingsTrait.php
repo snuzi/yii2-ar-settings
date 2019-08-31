@@ -1,6 +1,6 @@
 <?php
 
-namespace sabri\ARSettings;
+namespace snuzi\ARSettings;
 
 trait WithSettingsTrait
 {
