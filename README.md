@@ -8,4 +8,5 @@ In the model:
 `use WithSettingsTrait;`
 
 `protected $mapSettingsTo = 'config';`
+
 `protected $settingsAttribute = 'config';`
